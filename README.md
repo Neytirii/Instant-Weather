@@ -4,4 +4,4 @@ Membres du groupe :
 - Julien Le Née
 - Jean-Baptiste Bartre
 - Demian Bretin Alvarez
-- https://neytirii.github.io/projet/
+- https://neytirii.github.io/Instant-Weather/
